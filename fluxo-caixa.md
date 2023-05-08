@@ -32,7 +32,18 @@
 | 27/10/2022 | Rendimento bancário entre 27/09/2022 e 26/10/2022 | R$ 4,15      | Entrada de dinheiro |
 | 09/11/2022 | Pagamento de empréstimo a Ana Cecília             | R$ -1.500,00 | Saída de dinheiro   |
 | 11/11/2022 | PyBR 22 -Venda de 02 camisas                      | R$ 110,00    | Entrada de dinheiro |
-| 11/11/2022 | TOTAL A RECEBER - PyBR 22 venda no cartão de crédito| R$ 266,25  |                     |
-| 11/11/2022 | TOTAL EM CAIXA                                    | R$ 2.654,20  |                     |
+| 18/11/2022 | PyBR 22 - venda no cartão de crédito              | R$ 266,25    | Entrada de dinheiro |
+| 22/11/2022 | Rendimento da conta                               | R$ 21,12     | Entrada de dinheiro |
+| 05/12/2022 | Pix para manutenção do chip ativo                 | R$ 00,01     | Entrada de dinheiro |
+| 22/12/2022 | Rendimento da conta                               | R$ 24,42     | Entrada de dinheiro |
+| 04/01/2023 | Pix para manutenção do chip ativo                 | R$ 00,97     | Entrada de dinheiro |
+| 22/01/2023 | Rendimento da conta                               | R$ 24,61     | Entrada de dinheiro |
+| 15/02/2023 | Pix para manutenção do chip ativo                 | R$ 00,97     | Entrada de dinheiro |
+| 23/02/2023 | Rendimento da conta                               | R$ 24,79     | Entrada de dinheiro |
+| 23/03/2023 | Rendimento da conta                               | R$ 23,50     | Entrada de dinheiro |
+| 23/04/2023 | Rendimento da conta                               | R$ 25,21     | Entrada de dinheiro |
+| 08/05/2023 | Transporte ida-volta de palestrante para ETE Jordão, Dia da Mulher        | R$ -49,86    | Saída de dinheiro   |
+| 08/05/2023 | Rendimento da conta                               | R$ 00,01     | Entrada de dinheiro |
+| 22/11/2022 | TOTAL EM CAIXA                                    | R$ 3.016,21  |                     |
 
 * Extratos bancários com acesso restrito por conter dados pessoais([extratos](https://drive.google.com/drive/u/3/folders/1FmF5s37YhxwtzO2QezLkkFbi7EOfw2dC)).
