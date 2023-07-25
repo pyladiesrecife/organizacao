@@ -44,6 +44,8 @@
 | 23/04/2023 | Rendimento da conta                               | R$ 25,21     | Entrada de dinheiro |
 | 08/05/2023 | Transporte ida-volta de palestrante para ETE Jordão, Dia da Mulher        | R$ -49,86    | Saída de dinheiro   |
 | 08/05/2023 | Rendimento da conta                               | R$ 00,01     | Entrada de dinheiro |
-| 22/11/2022 | TOTAL EM CAIXA                                    | R$ 3.016,21  |                     |
+| 25/07/2023 | Rendimento da conta                               | R$ 75,67     | Entrada de dinheiro |
+| 25/07/2023 | Pagamento de 50% das 105 camisas (1. parcela)     | R$ -1.575,00 | Saída de dinheiro   |
+| 22/11/2022 | TOTAL EM CAIXA                                    | R$ 1.516,88  |                     |
 
 * Extratos bancários com acesso restrito por conter dados pessoais([extratos](https://drive.google.com/drive/u/3/folders/1FmF5s37YhxwtzO2QezLkkFbi7EOfw2dC)).
